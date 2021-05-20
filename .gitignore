@@ -1,17 +1,12 @@
-# Ignore Everything
+# Noir Character
+
+# Whitelist file; mostly project info and documentation are currently public
 *
 !*/
 
+# Common files
 !.gitignore
-!CNAME
 !README*
 
+# Public folders
 !docs/*
-
-
-# Project place file
-/test.rbxlx
-
-# Roblox Studio lock files
-/*.rbxlx.lock
-/*.rbxl.lock
