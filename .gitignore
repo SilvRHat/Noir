@@ -1,10 +1,11 @@
 # Ignore Everything
 *
-!.gitignore
 !*/
+
+!.gitignore
 !CNAME
 !README*
-!docs
+
 !docs/*
 
 
