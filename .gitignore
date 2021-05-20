@@ -2,12 +2,11 @@
 
 # Whitelist file; mostly project info and documentation are currently public
 *
-#!*/
+!*/
 
 # Common files
 !.gitignore
 !README*
 
 # Public folders
-!docs
 !docs/*
