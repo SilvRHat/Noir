@@ -1,9 +1,10 @@
 # Ignore Everything
 *
 !.gitignore
-!README
-!README/*
 !CNAME
+!README*
+!docs
+!docs/*
 
 
 # Project place file
