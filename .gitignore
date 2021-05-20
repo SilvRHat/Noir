@@ -1,0 +1,12 @@
+# Ignore Everything
+*
+!.gitignore
+!README
+
+
+# Project place file
+/test.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
