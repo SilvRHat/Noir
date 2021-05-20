@@ -1,8 +1,8 @@
 # Ignore Everything
 *
 !.gitignore
-!README
-!index.html
+
+!README/*
 
 
 # Project place file
