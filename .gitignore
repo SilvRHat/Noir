@@ -1,12 +1,7 @@
 # Noir Character
 
-# Whitelist file; mostly project info and documentation are currently public
-#*
-#!*/
+# Directories excluded in .git/info/exclude
+#   src
 
-# Common files
-#!.gitignore
-#!README*
-
-# Public folders
-#!docs/*
+# Local files
+local.rblx
