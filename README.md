@@ -10,11 +10,11 @@ Hello and welcome! to the character project for Noir- a spontaneous, ambitious, 
 Noir's goggles allow her to see the world in several unique perspectives specific to her. Those include: human, ghost, and time traveller views  
 The dev page matches the theme and life of Noir by featuring this special feature with the query param `lens`. Check it out at:
 - <a target='blank' href='https://noir.silvrship.dev/'>Dev Page?lens=</a>
-<a style='color: rgba(0,10,150);' 
-target='blank' href='https://noir.silvrship.dev/?lens=human'>Human, </a>
-<a style='color: rgba(255,105,250);' 
-target='blank' href='https://noir.silvrship.dev/?lens=ghost'>Ghost, </a>
-<a style='color: rgba(255,200,120);' 
+<a style='text-decoration: underline; color: rgba(0,10,150);' 
+target='blank' href='https://noir.silvrship.dev/?lens=human'>Human</a>, 
+<a style='text-decoration: underline; color: rgba(255,105,250);' 
+target='blank' href='https://noir.silvrship.dev/?lens=ghost'>Ghost, </a>, 
+<a style='text-decoration: underline; color: rgba(255,200,120);' 
 target='blank' href='https://noir.silvrship.dev/?lens=time'>Time Traveller</a>
 
 
