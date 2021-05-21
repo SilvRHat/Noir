@@ -1,36 +1,37 @@
 # Noir Character
-Developed by noirv~
+Developed by noirv~ <!-- Noir Verscottie -->
 
 ### ABOUT
 Hello and welcome! to the character project for Noir- a spontaneous, ambitious, and crafty ghost girl. This summer project is all about bringing her to life in a gameplay world of her own. Get to know Noir and check out the project at:  
 - <a target='blank' href='https://www.roblox.com/games/6842303525/Noir'>Game Link and Page</a>
 - <a target='blank' href='https://noir.silvrship.dev/'>Dev Page</a>
 
+#### Lens
+Noir's goggles allow her to see the world in several unique perspectives specific to her. Those include: human, ghost, and time traveller views  
+The dev page matches the theme and life of Noir by featuring this special feature with the query param `lens`. Check it out at:
+- <a target='blank' href='https://noir.silvrship.dev/'>Dev Page?lens=</a>
+<a style='color: rgba(0,10,150);' 
+target='blank' href='https://noir.silvrship.dev/?lens=human'>Human, </a>
+<a style='color: rgba(255,105,250);' 
+target='blank' href='https://noir.silvrship.dev/?lens=ghost'>Ghost, </a>
+<a style='color: rgba(255,200,120);' 
+target='blank' href='https://noir.silvrship.dev/?lens=time'>Time Traveller</a>
 
 
+### SOURCE
+Currently, source code for Noir's game character are kept locally and private. My motivations for maintaining a public repo are for a strong info interface I'm able to share with others.  
+Over time, pieces of this project will begin to made publically available here, such as client-run rbx code, custom methods (modular format), and prototype notes and notebooks.  
+If you're finding that something is not public here but are interested in, then feel free to contact me.
 
-
-<!--
-
-
-### DEV PAGE
-
-
-### SOURCE CODE
 
 ### SCOPE
+This project covers development on the playable character 'Noir' for gameplay published on Roblox's Platform. 
+
 
 ### CONTACT
+Feel free to get in touch with me via:	
+- <a href='https://www.linkedin.com/in/gavinzimmerman/'>LinkedIn<a>
+- gzimm4@gmail.com
 
 
-The development page and documentation, has been designed in html to match the theme and life of this project. Feel free to visit it at index.html from the current directory path.
-
-Noir has a development documentation page designed to match the theme and life of her character, available at 
-
-### LENS
-Noir has a special set of goggles made for interacting with different perspectives of the world. Its a key gameplay feature and character piece, which is also shown in the development page. Using query params ?lens=<lens name> will show verbose information for the following:
-	- human
-	- ghost
-	- time
-
--->
+<!-- Thanks for reading the verbose version! -->
