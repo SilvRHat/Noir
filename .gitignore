@@ -1,7 +1,0 @@
-# Noir Character
-
-# Directories excluded in .git/info/exclude
-#   src
-
-# Local files
-local.rblx
