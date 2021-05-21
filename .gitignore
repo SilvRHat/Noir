@@ -4,4 +4,4 @@
 #   src
 
 # Local files
-local.rbxl
+*.local*

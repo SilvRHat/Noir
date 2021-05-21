@@ -1,6 +1,5 @@
 { 
     "name": "Noir_Character",
-    "signature":"noirv~",
     
     "servePlaceIds": null,
     "servePort": 7071,
@@ -10,11 +9,15 @@
         "$className": "DataModel",
         
         
-        "ReplicatedStorage": {},
-        "ServerScriptService": {},
-        "StarterPlayer": {
-            "StarterPlayerScripts": {},
-            "StarterCharacterScripts": {}
+        "ReplicatedStorage": { "$className": "ReplicatedStorage"
+        },
+        "ServerScriptService": { "$className": "ServerScriptService"
+        },
+        "StarterPlayer": { "$className": "StarterPlayer",
+            "StarterPlayerScripts": { "$className": "StarterPlayerScripts"
+            },
+            "StarterCharacterScripts": { "$className": "StarterCharacterScripts"
+            }
         }
     }
 }
