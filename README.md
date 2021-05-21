@@ -13,7 +13,7 @@ The dev page matches the theme and life of Noir by featuring this special featur
 <a style='text-decoration: underline; color: rgba(0,10,150);' 
 target='blank' href='https://noir.silvrship.dev/?lens=human'>Human</a>, 
 <a style='text-decoration: underline; color: rgba(255,105,250);' 
-target='blank' href='https://noir.silvrship.dev/?lens=ghost'>Ghost, </a>, 
+target='blank' href='https://noir.silvrship.dev/?lens=ghost'>Ghost</a>, 
 <a style='text-decoration: underline; color: rgba(255,200,120);' 
 target='blank' href='https://noir.silvrship.dev/?lens=time'>Time Traveller</a>
 
