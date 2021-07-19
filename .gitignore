@@ -2,6 +2,15 @@
 
 # Directories excluded in .git/info/exclude
 #   src
+#   local
 
 # Local files
-*.local*
+
+# House keeping
+.ipynb_checkpoints
+.vscode
+
+# Not Implemented
+coffeeblend.lua
+wind.lua
+camera.lua

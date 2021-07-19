@@ -8,13 +8,20 @@
     "tree": {
         "$className": "DataModel",
         
-        
-        "ReplicatedStorage": { "$className": "ReplicatedStorage"
+        "ReplicatedStorage": { "$className": "ReplicatedStorage",
+            "utils": {
+                "$path": "src/utils"
+            }
         },
         "ServerScriptService": { "$className": "ServerScriptService"
         },
         "StarterPlayer": { "$className": "StarterPlayer",
-            "StarterPlayerScripts": { "$className": "StarterPlayerScripts"
+            "$properties": {},
+
+            "StarterPlayerScripts": { "$className": "StarterPlayerScripts",
+                "noir": {
+                    "$path" : "src/noirV"
+                }
             },
             "StarterCharacterScripts": { "$className": "StarterCharacterScripts"
             }
